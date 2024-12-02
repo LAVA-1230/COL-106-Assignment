@@ -1,0 +1,23 @@
+39
+33
+37
+37
+33
+--------------------------------------------------
+['DHqFST', 'FVs', 'FgsQBGA', 'HveatcnmQ', 'KcU', 'LnZXSC', 'MdDvMO', 'MiaThlZZW', 'NEsxjfpkUr', 'RpOCaIA', 'SEGreG', 'TBszlG', 'TEexYHepr', 'ThsDe', 'TozpAXrL', 'VLMVh', 'VjmQoOXoZ', 'WpM', 'arDa', 'bgT', 'csLXhTrgC', 'djWRorJS', 'ebwBiUOPhM', 'fOFww', 'fxl', 'gCB', 'ndgmRFJL', 'oQxfjUz', 'oYxFmCg', 'qGpv', 'qPbATrcKO', 'qVEuaTE', 'tFxFcUuIrk']
+['AGSAuh', 'Amk', 'CbowiaR', 'FlrwntUuy', 'HaXHjLIuL', 'JjfF', 'NtxY', 'OWej', 'PDVm', 'QFl', 'RGWhEN', 'ViHovK', 'VyoHM', 'XNAJmxXQ', 'YWDA', 'YaXTx', 'ZcohFnVZ', 'aQk', 'bDvbGSVA', 'bhMm', 'cpgFjLnq', 'iIGSXQZ', 'jIfHSaj', 'jtov', 'kVscfgHn', 'kta', 'majhGcYvz', 'qGWz', 'qLBHi', 'qXB', 'sgPAg', 'tCNqtVFEd', 'uaddTCfyZ', 'xZH', 'zllKR']
+['AGvKyArAdl', 'BflYpFEU', 'CnhkPl', 'DHQwN', 'DQI', 'Dwh', 'GKWEWb', 'JFPlpVrB', 'KKfY', 'UFUVtpBfp', 'UTKnBoRWpw', 'VxM', 'WbZQpQcjxL', 'WcTDi', 'XPGwnyfB', 'ZWHC', 'ZicfkZjCK', 'beTMlX', 'gDBD', 'hZhPrjvX', 'iiALTmW', 'jCuEVQjOH', 'jhk', 'lILPGaMvU', 'mZb', 'nLBZuHbL', 'oLoYCV', 'ogmUAQamL', 'rFvZauV', 'tCee', 'uvBpYmDa', 'vkAxXiwoCW', 'vrIu', 'wJYtSIwSlv', 'xCat', 'xUsCDc', 'xhMreHmbgz']
+['AUzEfySP', 'BcwpSMDb', 'GsIeQES', 'GsbnBzR', 'LCCP', 'MoAugjl', 'NKtwuzb', 'PCGgHb', 'QzFiMXWx', 'SqsSaHK', 'TcZibc', 'TzJmyggO', 'VBoN', 'WDj', 'WTR', 'WxoAEoNGvF', 'XRjJV', 'Xyix', 'YJiFCSa', 'YPOUQZCKJ', 'bUzxnJq', 'bZEvSOm', 'fYnqJa', 'jKL', 'jRGHj', 'jyktuOM', 'mQna', 'pCtBKhkn', 'pqgkRsRd', 'pzFRfADh', 'qKOXZlOaH', 'qwdfSj', 'vniNN', 'vqLp', 'wkR', 'xvnsm', 'ybCjq']
+['AGvKyArAdl', 'BflYpFEU', 'CnhkPl', 'DHQwN', 'DQI', 'Dwh', 'GKWEWb', 'JFPlpVrB', 'KKfY', 'UFUVtpBfp', 'UTKnBoRWpw', 'VxM', 'WbZQpQcjxL', 'WcTDi', 'XPGwnyfB', 'ZWHC', 'ZicfkZjCK', 'beTMlX', 'gDBD', 'hZhPrjvX', 'iiALTmW', 'jCuEVQjOH', 'jhk', 'lILPGaMvU', 'mZb', 'nLBZuHbL', 'oLoYCV', 'ogmUAQamL', 'rFvZauV', 'tCee', 'uvBpYmDa', 'vkAxXiwoCW', 'vrIu', 'wJYtSIwSlv', 'xCat', 'xUsCDc', 'xhMreHmbgz']
+--------------------------------------------------
+['jnUem']
+['jnUem']
+['UaZtxmrKB']
+['NJlwV']
+['UaZtxmrKB']
+--------------------------------------------------
+HVAL: AGSAuh | Amk | CbowiaR | FlrwntUuy | HaXHjLIuL | JjfF | NtxY | OWej | PDVm | QFl | RGWhEN | ViHovK | VyoHM | XNAJmxXQ | YWDA | YaXTx | ZcohFnVZ | aQk | bDvbGSVA | bhMm | cpgFjLnq | iIGSXQZ | jIfHSaj | jtov | kVscfgHn | kta | majhGcYvz | qGWz | qLBHi | qXB | sgPAg | tCNqtVFEd | uaddTCfyZ | xZH | zllKR
+NJlwV: AUzEfySP | BcwpSMDb | GsIeQES | GsbnBzR | LCCP | MoAugjl | NKtwuzb | PCGgHb | QzFiMXWx | SqsSaHK | TcZibc | TzJmyggO | VBoN | WDj | WTR | WxoAEoNGvF | XRjJV | Xyix | YJiFCSa | YPOUQZCKJ | bUzxnJq | bZEvSOm | fYnqJa | jKL | jRGHj | jyktuOM | mQna | pCtBKhkn | pqgkRsRd | pzFRfADh | qKOXZlOaH | qwdfSj | vniNN | vqLp | wkR | xvnsm | ybCjq
+UaZtxmrKB: AevISWaN | GZXj | OMwTeHRbFR | POMhPS | RzIy | SzayZGW | UntJE | VbrxOaCB | VqqtfFzno | WwPue | YDPqfyqqY | ZfVp | aGheHKWgzW | aRWpm | bGIHuyskv | bXywfD | bfSs | bmAIQfuJ | buuD | dysTl | fktMmQUVIt | gOAQevX | gPxVBfL | hmBZCLtDp | iCtDBqEki | jQxSyTsRY | kccYOuIBF | mVJGdBcb | mpALjwYd | noGYrNyIOQ | pkxWh | qalAXBZ | sedghOVfo | swK | tZiICj | vVTMu | webl | xZHqWUMzA | zTydaSqN
+jnUem: DHqFST | FVs | FgsQBGA | HveatcnmQ | KcU | LnZXSC | MdDvMO | MiaThlZZW | NEsxjfpkUr | RpOCaIA | SEGreG | TBszlG | TEexYHepr | ThsDe | TozpAXrL | VLMVh | VjmQoOXoZ | WpM | arDa | bgT | csLXhTrgC | djWRorJS | ebwBiUOPhM | fOFww | fxl | gCB | ndgmRFJL | oQxfjUz | oYxFmCg | qGpv | qPbATrcKO | qVEuaTE | tFxFcUuIrk
+xhBqJ: AGvKyArAdl | BflYpFEU | CnhkPl | DHQwN | DQI | Dwh | GKWEWb | JFPlpVrB | KKfY | UFUVtpBfp | UTKnBoRWpw | VxM | WbZQpQcjxL | WcTDi | XPGwnyfB | ZWHC | ZicfkZjCK | beTMlX | gDBD | hZhPrjvX | iiALTmW | jCuEVQjOH | jhk | lILPGaMvU | mZb | nLBZuHbL | oLoYCV | ogmUAQamL | rFvZauV | tCee | uvBpYmDa | vkAxXiwoCW | vrIu | wJYtSIwSlv | xCat | xUsCDc | xhMreHmbgz
